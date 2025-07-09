@@ -42,19 +42,19 @@ Largest-US-Companies-EDA-Webscraping
 
 ├── data/
 
-|  └── LargestCompanies.csv
+|└── LargestCompanies.csv
 
 ├── notebooks/
 
-|  └── scraping_Largest_Companies.ipynb
+|└── scraping_Largest_Companies.ipynb
 
-|  └── EDA_on_scarped_data.ipynb
+|└── EDA_on_scarped_data.ipynb
 
 ├── images/
 
-|  └── revenue_growth_increased.png
+|└── revenue_growth_increased.png
 
-|  └── revenue_growth_decreased.png
+|└── revenue_growth_decreased.png
 
 └──  README.md
 
