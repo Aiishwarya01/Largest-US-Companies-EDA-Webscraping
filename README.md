@@ -39,18 +39,23 @@ This is a mini data project where I scraped a table from [Wikipedia](https://en.
 🧾 Project Structure
 
 Largest-US-Companies-EDA-Webscraping
-│
+
 ├── data/
-│ └── LargestCompanies.csv
-│
+
+|  └── LargestCompanies.csv
+
 ├── notebooks/
-│ ├── scraping_Largest_Companies.ipynb
-│ └── EDA_on_scarped_data.ipynb
-│
-├── images/ 
-│ └── revenue_growth_increased.png
-│ └── revenue_growth_decreased.png
-│
+
+|  └── scraping_Largest_Companies.ipynb
+
+|  └── EDA_on_scarped_data.ipynb
+
+├── images/
+
+|  └── revenue_growth_increased.png
+
+|  └── revenue_growth_decreased.png
+
 └──  README.md
 
 ---
