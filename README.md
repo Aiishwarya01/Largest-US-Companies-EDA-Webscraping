@@ -37,7 +37,7 @@ This is a mini data project where I scraped a table from [Wikipedia](https://en.
 ---
 
 🧾 Project Structure
-
+```
 Largest-US-Companies-EDA-Webscraping/
 │
 ├── data/
@@ -52,6 +52,7 @@ Largest-US-Companies-EDA-Webscraping/
 │   └── revenue_growth_decreased.png
 │
 └── README.md
+```
 
 ---
 
